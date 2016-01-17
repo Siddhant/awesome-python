@@ -304,7 +304,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 * [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 * [you-get](https://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-* [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+* [youtube-dl](http://rg3.github.io/youtube-dl/) - Small command-line program to download videos from YouTube.com and other video sites.
 
 ## Imagery
 
